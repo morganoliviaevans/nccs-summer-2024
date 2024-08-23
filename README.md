@@ -2,7 +2,7 @@
 NASA Center for Climate Simulation Internship, Summer 2024
 
 # Overview
-This repository documents my work and accomplishments during my internship at the NASA Center for Climate Simulation (NCCS) in the Summer of 2024. My work focused on two main areas: running GEOS OSU Micro-benchmarking across various supercomputing systems to evaluate MPI performance and scalability (objective-1), and conducting GEOS I/O Benchmarking on Discover Milan to compare the performance of DNB09 and DTSE01 file systems (objective-2). It includes benchmarking results, scripts, reports, and additional documentation of the various projects and tasks I worked on. 
+This repository documents my work and accomplishments during my internship at the NASA Center for Climate Simulation (NCCS) in the Summer of 2024. My work focused on two main areas: running GEOS OSU Micro-benchmarking across various supercomputing systems to evaluate MPI performance and scalability (objective-1), and conducting GEOS I/O Benchmarking on Discover Milan to compare the performance of DNB09 and DTSE01 file systems (objective-2). It includes benchmarking results, scripts, reports, and system build instructions.
 
 # Table of Contents
 - [Objective 1: GEOS OSU Micro-benchmarking](#objective-1-geos-osu-micro-benchmarking)
