@@ -13,19 +13,18 @@ This repository documents my work and accomplishments during my internship at th
 - [Data](#data)
 
 # Objective 1: GEOS OSU Micro-benchmarking
-The `/benchmarks-objective-1/` directory contains the results of GEOS OSU Micro-benchmarking.
+The `/benchmarks-objective-1/` directory contains the benchmarking data for GEOS OSU Micro-benchmarking.
 
 # Objective 2: GEOS I/O Benchmarking on Discover
-The `/benchmarks-objective-2/` directory contains the results of GEOS I/O benchmarking performed on Discover. All scripts used for objective-2 were built by William Woodford / GMAO / Ohio State University and manually adjusted per architecture and system specification.
-
+The `/benchmarks-objective-2/` directory contains the benchmarking data for GEOS I/O benchmarking performed on Discover.
 # Scripts
-The `/scripts-objective-1/` and `/scripts-objective-2/` directories include scripts I developed or utilized during my internship. Each script is documented with comments to explain its purpose and usage. All scripts used for objective-2 were built by Lucas Synder / GMAO and manually adjusted per architecture and system specification.
+The `/scripts-objective-1/` and `/scripts-objective-2/` directories include scripts I developed or utilized during my internship. Each script is documented with comments to explain its purpose and usage. All scripts used for objective-1 were built by William Woodford and manually adjusted per architecture and system specification. All scripts used for objective-2 were built by Lucas Synder / GMAO and manually adjusted per architecture and system specification.
 
 # Reports
 The `/reports/` directory contains summaries and detailed reports.
 
 # Documentation
-The `/docs-objective-1/` and `/docs-objective-2/` directories hold additional notes and documentation.
+The `/docs-objective-1/` and `/docs-objective-2/` directories hold build instructions and documentation.
 
 This repository serves as a comprehensive record of my internship experience, providing insights into the tasks I completed and the knowledge I gained. I hope it can be a useful resource for anyone interested in similar work or future interns.
 Feel free to explore the repository, and don't hesitate to reach out if you have any questions!
