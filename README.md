@@ -16,7 +16,7 @@ This repository documents my work and accomplishments during my internship at th
 The `/benchmarks-objective-1/` directory contains the results of GEOS OSU Micro-benchmarking.
 
 # Objective 2: GEOS I/O Benchmarking on Discover
-The `/benchmarks-objective-2/` directory contains the results of GEOS I/O benchmarking performed on Discover.
+The `/benchmarks-objective-2/` directory contains the results of GEOS I/O benchmarking performed on Discover. All scripts used for objective-2 were built by William Woodford / GMAO / Ohio State University and manually adjusted per architecture and system specification.
 
 # Scripts
 The `/scripts-objective-1/` and `/scripts-objective-2/` directories include scripts I developed or utilized during my internship. Each script is documented with comments to explain its purpose and usage. All scripts used for objective-2 were built by Lucas Synder / GMAO and manually adjusted per architecture and system specification.
