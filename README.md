@@ -27,9 +27,6 @@ The `/reports/` directory contains summaries and detailed reports.
 # Documentation
 The `/docs-objective-1/` and `/docs-objective-2/` directories hold additional notes and documentation.
 
-# Data
-The `/data-objective-1/` and `/data-objective-2/` directories contain non-confidential data sets used in my analysis and benchmarking.
-
 This repository serves as a comprehensive record of my internship experience, providing insights into the tasks I completed and the knowledge I gained. I hope it can be a useful resource for anyone interested in similar work or future interns.
 Feel free to explore the repository, and don't hesitate to reach out if you have any questions!
 morganoliviaevans@gmail.com 
