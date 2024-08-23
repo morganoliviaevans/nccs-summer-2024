@@ -1,2 +1,35 @@
 # nccs-summer-2024
 NASA Center for Climate Simulation Internship, Summer 2024
+
+# Overview
+This repository documents my work and accomplishments during my internship at the NASA Center for Climate Simulation (NCCS) in the Summer of 2024. My work focused on two main areas: running GEOS OSU Micro-benchmarking across various supercomputing systems to evaluate MPI performance and scalability (objective-1), and conducting GEOS I/O Benchmarking on Discover Milan to compare the performance of DNB09 and DTSE01 file systems (objective-2). It includes benchmarking results, scripts, reports, and additional documentation of the various projects and tasks I worked on. 
+
+# Table of Contents
+- [Objective 1: GEOS OSU Micro-benchmarking](#objective-1-geos-osu-micro-benchmarking)
+- [Objective 2: GEOS I/O Benchmarking on Discover](#objective-2-geos-io-benchmarking)
+- [Scripts](#scripts)
+- [Reports](#reports)
+- [Documentation](#documentation)
+- [Data](#data)
+
+# Objective 1: GEOS OSU Micro-benchmarking
+The `/benchmarks-objective-1/` directory contains the results of GEOS OSU Micro-benchmarking.
+
+# Objective 2: GEOS I/O Benchmarking on Discover
+The `/benchmarks-objective-2/` directory contains the results of GEOS I/O benchmarking performed on Discover.
+
+# Scripts
+The `/scripts-objective-1/` and `/scripts-objective-2/` directories include scripts I developed or utilized during my internship. Each script is documented with comments to explain its purpose and usage.
+
+# Reports
+The `/reports/` directory contains summaries and detailed reports.
+
+# Documentation
+The `/docs-objective-1/` and `/docs-objective-2/` directories hold additional notes and documentation.
+
+# Data
+The `/data-objective-1/` and `/data-objective-2/` directories contain non-confidential data sets used in my analysis and benchmarking.
+
+This repository serves as a comprehensive record of my internship experience, providing insights into the tasks I completed and the knowledge I gained. I hope it can be a useful resource for anyone interested in similar work or future interns.
+Feel free to explore the repository, and don't hesitate to reach out if you have any questions!
+morganoliviaevans@gmail.com 
