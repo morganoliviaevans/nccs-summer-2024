@@ -4,6 +4,10 @@ NASA Center for Climate Simulation Internship, Summer 2024
 # Overview
 This repository documents my work and accomplishments during my internship at the NASA Center for Climate Simulation (NCCS) in the Summer of 2024. My work focused on two main areas: running GEOS OSU Micro-benchmarking across various supercomputing systems to evaluate MPI performance and scalability (objective-1), and conducting GEOS I/O Benchmarking on Discover Milan to compare the performance of DNB09 and DTSE01 file systems (objective-2). It includes benchmarking results, scripts, reports, and system build instructions.
 
+# *Note: Intel MPI / Azure Issue Update
+
+A few days before my internship ended, Intel provided a software fix for the Intel MPI issue on Azure. This issue is addressed in full detail in my paper. While this fix came after I had already completed my paper and research findings, I was able to run the necessary benchmarks just before wrapping up my internship. The results of these Azure benchmarks, along with detailed tuning summaries for all four systems, are included in the attached data. This update provides additional insights that complement the original research.
+
 # Table of Contents
 - [Objective 1: GEOS OSU Micro-benchmarking](#objective-1-geos-osu-micro-benchmarking)
 - [Objective 2: GEOS I/O Benchmarking on Discover](#objective-2-geos-io-benchmarking)
