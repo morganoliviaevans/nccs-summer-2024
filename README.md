@@ -24,7 +24,7 @@ The `/benchmarks-objective-2/` directory contains the benchmarking data for GEOS
 # Scripts
 The `/scripts-objective-1/` and `/scripts-objective-2/` directories include scripts I developed or utilized during my internship. Each script is documented with comments to explain its purpose and usage. All scripts used for objective-1 were built by William Woodford and manually adjusted per architecture and system specification. All scripts used for objective-2 were built by Lucas Snyder / GMAO and manually adjusted per architecture and system specification.
 
-# Resources Used:
+# Software Used:
 OSU Micro-benchmarks: https://github.com/forresti/osu-micro-benchmarks
 
 MAPL: https://github.com/GEOS-ESM/MAPL/wiki/Building-and-Testing-MAPL-as-a-standalone
