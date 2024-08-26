@@ -16,10 +16,10 @@ A few days before my internship ended, Intel provided a software fix for the Int
 - [Documentation](#documentation)
 
 # Objective 1: GEOS OSU Micro-benchmarking
-The `/benchmarks-objective-1/` directory contains the benchmarking data for GEOS OSU Micro-benchmarking.
+The `/benchmarks-objective-1/` directory contains benchmarking data for GEOS OSU Micro-benchmarking performed on Discover (NCCS), Aitken (NAS), Azure and AWS.
 
 # Objective 2: GEOS I/O Benchmarking on Discover
-The `/benchmarks-objective-2/` directory contains the benchmarking data for GEOS I/O benchmarking performed on Discover.
+The `/benchmarks-objective-2/` directory contains benchmarking data for GEOS I/O benchmarking performed on Discover.
 
 # Scripts
 The `/scripts-objective-1/` and `/scripts-objective-2/` directories include scripts I developed or utilized during my internship. Each script is documented with comments to explain its purpose and usage. All scripts used for objective-1 were built by William Woodford and manually adjusted per architecture and system specification. All scripts used for objective-2 were built by Lucas Snyder / GMAO and manually adjusted per architecture and system specification.
