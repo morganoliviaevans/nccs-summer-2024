@@ -23,8 +23,8 @@ A few days before my internship ended, Intel provided a software fix for the Int
 The `/scripts-objective-1/` and `/scripts-objective-2/` directories include scripts I developed or utilized during my internship. Each script is documented with comments to explain its purpose and usage. All scripts used for objective-1 were built by William Woodford and manually adjusted per architecture and system specification. All scripts used for objective-2 were built by Lucas Snyder / GMAO and manually adjusted per architecture and system specification.
 
 # Software Used
-- [OSU Micro-benchmarks](https://github.com/forresti/osu-micro-benchmarks)
 - [GEOS MAPL](https://github.com/GEOS-ESM/MAPL/wiki/Building-and-Testing-MAPL-as-a-standalone)
+- [OSU Micro-benchmarks](https://github.com/forresti/osu-micro-benchmarks)
 
 # Reports
 The `/reports/` directory contains summaries and detailed reports.
