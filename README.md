@@ -4,7 +4,9 @@ NASA Center for Climate Simulation Internship, Summer 2024
 # Overview
 This repository documents my work and accomplishments during my internship at the NASA Center for Climate Simulation (NCCS) in the Summer of 2024. The Goddard Earth Observing System (GEOS) is a comprehensive Earth system model developed by NASA to simulate and predict climate and weather. 
 
-My work focused on two main areas: GEOS OSU Micro-benchmarking across various supercomputing systems to evaluate MPI performance and scalability (objective-1), and conducting GEOS I/O benchmarking on Discover to compare the performance of DNB09 and DTSE01 file systems (objective-2). Objective 1 was completed in full and a paper detailing this research is included in the repository. Objective 2, which focused on benchmarking GEOS I/O on Discover, was initiated in the last two weeks of my internship and remains ongoing at NCCS. This repository includes benchmarking results, scripts, reports, and system build instructions.
+My work focused on two main areas: GEOS OSU Micro-benchmarking across various supercomputing systems to evaluate MPI performance and scalability (objective-1), and conducting GEOS I/O benchmarking on Discover to compare the performance of DNB09 and DTSE01 file systems (objective-2). Objective 1 was completed in full and a paper detailing this research is included in the repository. Objective 2, which focused on benchmarking GEOS I/O on Discover, was initiated in the last two weeks of my internship and remains ongoing at NCCS. 
+
+This repository includes benchmarking results, scripts, reports, and system build instructions.
 
 # **Update**: Intel MPI / Azure Issue
 
