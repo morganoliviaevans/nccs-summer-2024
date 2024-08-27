@@ -8,7 +8,7 @@ My work focused on two main areas: GEOS OSU Micro-benchmarking across various su
 
 This repository includes benchmarking results, scripts, reports, and system build instructions.
 
-# **Update**: Intel MPI / Azure Issue
+**Update**: Intel MPI / Azure Issue
 
 A few days before my internship ended, Intel provided a software fix for the Intel MPI issue on Azure. This issue is addressed in full detail in my paper. While this fix came after I had already completed my paper and research findings, I was able to run the necessary benchmarks just before wrapping up my internship. The results of these Azure benchmarks, along with detailed tuning summaries for all four systems, are included in the attached data. This update provides additional insights that complement the original research.
 
