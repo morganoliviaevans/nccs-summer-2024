@@ -12,30 +12,30 @@ This repository includes benchmarking results, scripts, reports, and system buil
 
 A few days before my internship ended, Intel provided a software fix for the Intel MPI issue on Azure. This issue is addressed in full detail in my paper. While this fix came after I had already completed my paper and research findings, I was able to run the necessary benchmarks just before wrapping up my internship. The results of these Azure benchmarks, along with detailed tuning summaries for all four systems, are included in the attached data. This update provides additional insights that complement the original research.
 
-# Table of Contents
+## Table of Contents
 - [Scripts](#scripts)
 - [Reports](#reports)
 - [Documentation](#documentation)
 - [Objective 1: GEOS OSU Micro-benchmarking](#objective-1-geos-osu-micro-benchmarking)
 - [Objective 2: GEOS I/O Benchmarking on Discover](#objective-2-geos-io-benchmarking)
 
-# Scripts
+### Scripts
 The `/scripts-objective-1/` and `/scripts-objective-2/` directories include scripts I developed or utilized during my internship. Each script is documented with comments to explain its purpose and usage. All scripts used for objective-1 were built by William Woodford and manually adjusted per architecture and system specification. All scripts used for objective-2 were built by Lucas Snyder / GMAO and manually adjusted per architecture and system specification.
 
-# Software Used
+### Software Used
 - [GEOS MAPL](https://github.com/GEOS-ESM/MAPL/wiki/Building-and-Testing-MAPL-as-a-standalone)
 - [OSU Micro-benchmarks](https://github.com/forresti/osu-micro-benchmarks)
 
-# Reports
+### Reports
 The `/reports/` directory contains summaries and detailed reports.
 
-# Documentation
+### Documentation
 The `/docs-objective-1/` and `/docs-objective-2/` directories hold build instructions and documentation.
 
-# Objective 1: GEOS OSU Micro-benchmarking
+### Objective 1: GEOS OSU Micro-benchmarking
 The `/benchmarks-objective-1/` directory contains benchmarking data for GEOS OSU Micro-benchmarking performed on Discover (NCCS), Aitken (NAS), Azure and AWS.
 
-# Objective 2: GEOS I/O Benchmarking on Discover
+### Objective 2: GEOS I/O Benchmarking on Discover
 The `/benchmarks-objective-2/` directory contains benchmarking data for GEOS I/O benchmarking performed on Discover.
 
 This repository serves as a comprehensive record of my internship experience, providing insights into the tasks I completed and the knowledge I gained. I hope it can be a useful resource for anyone interested in similar work or future interns.
